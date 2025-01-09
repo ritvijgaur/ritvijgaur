@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Ethical Hacking                               | <a href="https://www.linkedin.com/posts/ritvij-gaur-844399283_cehmaster-cybersecurity-ethicalhacking-activity-7218954618024677378-OKrd?utm_source=share&utm_medium=member_desktop">CEHv12 MASTER</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|

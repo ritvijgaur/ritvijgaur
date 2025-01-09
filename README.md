@@ -1,4 +1,4 @@
-# <iframe src="https://assets.pinterest.com/ext/embed.html?id=5629568278770045" height="444" width="600" frameborder="0" scrolling="no" ></iframe>
+# https://assets.pinterest.com/ext/embed.html?id=5629568278770045
 # Hello, I'm Ritvij Gaur
 <a href="https://linkedin.com/in/ritvij-gaur-844399283"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 

@@ -10,14 +10,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Source         |
 |-----------------------------------------------|----------------------------|
-| Ethical Hacking                               | <a href="https://www.linkedin.com/posts/ritvij-gaur-844399283_cehmaster-cybersecurity-ethicalhacking-activity-7218954618024677378-OKrd?utm_source=share&utm_medium=member_desktop">CEHv12 MASTER</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Ethical Hacking, Pentesting                   | <a href="https://www.linkedin.com/posts/ritvij-gaur-844399283_cehmaster-cybersecurity-ethicalhacking-activity-7218954618024677378-OKrd?utm_source=share&utm_medium=member_desktop">CEHv12 MASTER</a>|
+| Penetration tester                            | <a href="https://google.com">Tryhackme Jr.Pentester Skill Path</a>|
+| SOC Analyst Tier 2                            | TryHackMe SOC Certification |
+| Forensic Analysis,Network Forensics, Log analysis | HTB Sherlocks, Cyberdefenders.org |
+| Internet Of Things (IoT)                      | Soil Analyzer Project-Smart India Hackathon|
+| Internet Of Things (IoT)                      | Wardriving Car Project|
 
 ## Tools
 

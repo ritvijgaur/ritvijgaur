@@ -1,4 +1,4 @@
-# https://assets.pinterest.com/ext/embed.html?id=5629568278770045
+# ![Hacker GIF](https://imgur.com/a/OxwR7PC)
 # Hello, I'm Ritvij Gaur
 <a href="https://linkedin.com/in/ritvij-gaur-844399283"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 

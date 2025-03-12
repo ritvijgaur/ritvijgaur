@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 | Ethical Hacking, Pentesting                   | <a href="https://www.linkedin.com/posts/ritvij-gaur-844399283_cehmaster-cybersecurity-ethicalhacking-activity-7218954618024677378-OKrd?utm_source=share&utm_medium=member_desktop">CEHv12 MASTER</a>|
 | Penetration tester                            | <a href="https://google.com">Tryhackme Jr.Pentester Skill Path</a>|
-| SOC Analyst Tier 2                            | TryHackMe SOC Certification |
+| SOC Analyst Tier 1                            | TryHackMe SOC Certification |
 | Forensic Analysis,Network Forensics, Log analysis | HTB Sherlocks, Cyberdefenders.org |
 | Internet Of Things (IoT)                      | Soil Analyzer Project-Smart India Hackathon|
 | Internet Of Things (IoT)                      | Wardriving Car Project|
@@ -53,7 +53,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
-- Soil Analyzer Hardware
-- 
+- SIEM Detection Lab
+- Soil Analyzer Hardware (IoT)
+- Bluetooth/2.4Ghz wifi jammer (IoT in hacking)
+- RF reciver and transmitter (RTL-SDR and raspberry pi3) (flipper zero replay attack IoT)
